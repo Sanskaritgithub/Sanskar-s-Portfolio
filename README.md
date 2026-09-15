@@ -1,7 +1,7 @@
 # Sanskar-s-Portfolio
 
 ### 🚀 Live Preview  
-**https://portfolio-v-sigma-seven.vercel.app**
+**https://https://sanskar-s-portfolio-lake.vercel.app/**
 
 ---
 
